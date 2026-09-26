@@ -6,3 +6,5 @@ plotly
 folium
 streamlit-folium
 geopandas
+pyarrow==15.0.0
+fiona
